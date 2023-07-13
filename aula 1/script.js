@@ -22,7 +22,7 @@ console.log("Hello World!");
 
 // document.write(calcNota(10, 10, 10));
 
-let manha, tarde, noite = 0;
+let manha = 0, tarde = 0, noite = 0;
 
 function acesso(horario) {
     for (let i = 0; i < 10; i++) {
